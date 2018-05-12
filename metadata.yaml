@@ -1,0 +1,26 @@
+_repo: '----_25280'
+_version: 0.1.0
+alternative_title: Da Tang Xin Yu
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Liu, Su, active 806-820
+    alias: 劉肅
+    gutenberg_agent_id: '31207'
+    url: http://www.gutenberg.org/2009/agents/31207
+description: ''
+gutenberg_issued: '2008-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25280'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- History -- Tang dynasty, 618-907 -- Anecdotes'
+- !lcc 'DS'
+title: 大唐新語
+url: http://www.gutenberg.org/ebooks/25280
